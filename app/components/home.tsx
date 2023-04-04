@@ -199,7 +199,7 @@ function _Home() {
 export function Home() {
   return (
     <ErrorBoundary>
-      <_Home>Alex</_Home>
+      <_Home></_Home>
     </ErrorBoundary>
   );
 }
